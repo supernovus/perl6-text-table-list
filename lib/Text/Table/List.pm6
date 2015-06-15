@@ -1,4 +1,4 @@
-class Text::Table::List;
+unit class Text::Table::List;
 
 has @!lines;
 has $!text;
